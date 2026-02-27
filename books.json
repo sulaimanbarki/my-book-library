@@ -1,8 +1,8 @@
 [
   {
-    "id": "book1",
-    "title": "Naya Safar",
-    "author": "Josh Malihabadi",
+    "id": "surah-yasin",
+    "title": "Surah Yasin",
+    "author": "Unknown",
     "coverUrl": "https://...",
     "pdfUrl": "https://raw.githubusercontent.com/[username]/[repo]/[branch]/book1.pdf"
   }
