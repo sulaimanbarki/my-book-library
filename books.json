@@ -12,12 +12,5 @@
     "author": "Unknown",
     "coverUrl": "",
     "pdfUrl": "https://github.com/sulaimanbarki/my-book-library/blob/main/SurahYaseen.pdf"
-  },
-  {
-    "id": "test-book-2",
-    "title": "Book 2",
-    "author": "Barki",
-    "coverUrl": "",
-    "pdfUrl": "https://www.orimi.com/pdf-test.pdf"
   }
 ]
