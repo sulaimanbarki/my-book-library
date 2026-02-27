@@ -1,0 +1,9 @@
+[
+  {
+    "id": "book1",
+    "title": "Naya Safar",
+    "author": "Josh Malihabadi",
+    "coverUrl": "https://...",
+    "pdfUrl": "https://raw.githubusercontent.com/[username]/[repo]/[branch]/book1.pdf"
+  }
+]
