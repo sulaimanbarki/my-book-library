@@ -3,14 +3,14 @@
     "id": "surah-yasin",
     "title": "Surah Yasin",
     "author": "Unknown",
-    "coverUrl": "https://...",
+    "coverUrl": "",
     "pdfUrl": "https://github.com/sulaimanbarki/my-book-library/blob/main/SurahYaseen.pdf"
   },
   {
     "id": "test-book-2",
     "title": "BBook 2",
     "author": "Barki",
-    "coverUrl": "https://...",
+    "coverUrl": "",
     "pdfUrl": "https://www.orimi.com/pdf-test.pdf"
   }
 ]
